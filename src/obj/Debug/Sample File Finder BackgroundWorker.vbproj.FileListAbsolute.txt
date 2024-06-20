@@ -1,0 +1,11 @@
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample File Finder BackgroundWorker\bin\Debug\Sample File Finder BackgroundWorker.exe.config
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample File Finder BackgroundWorker\bin\Debug\Sample File Finder BackgroundWorker.exe
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample File Finder BackgroundWorker\bin\Debug\Sample File Finder BackgroundWorker.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample File Finder BackgroundWorker\bin\Debug\Sample File Finder BackgroundWorker.xml
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample File Finder BackgroundWorker\obj\Debug\Sample File Finder BackgroundWorker.vbprojAssemblyReference.cache
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample File Finder BackgroundWorker\obj\Debug\ChuCong.Form1.resources
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample File Finder BackgroundWorker\obj\Debug\ChuCong.Resources.resources
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample File Finder BackgroundWorker\obj\Debug\Sample File Finder BackgroundWorker.vbproj.GenerateResource.cache
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample File Finder BackgroundWorker\obj\Debug\Sample File Finder BackgroundWorker.exe
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample File Finder BackgroundWorker\obj\Debug\Sample File Finder BackgroundWorker.xml
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample File Finder BackgroundWorker\obj\Debug\Sample File Finder BackgroundWorker.pdb

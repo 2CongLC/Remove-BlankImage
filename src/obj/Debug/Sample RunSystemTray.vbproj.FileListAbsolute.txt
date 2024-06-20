@@ -1,0 +1,11 @@
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample RunSystemTray\bin\Debug\Sample RunSystemTray.exe.config
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample RunSystemTray\bin\Debug\Sample RunSystemTray.exe
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample RunSystemTray\bin\Debug\Sample RunSystemTray.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample RunSystemTray\bin\Debug\Sample RunSystemTray.xml
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample RunSystemTray\obj\Debug\Sample RunSystemTray.vbprojAssemblyReference.cache
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample RunSystemTray\obj\Debug\Sample RunSystemTray.vbproj.GenerateResource.cache
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample RunSystemTray\obj\Debug\Sample RunSystemTray.exe
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample RunSystemTray\obj\Debug\Sample RunSystemTray.xml
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample RunSystemTray\obj\Debug\Sample RunSystemTray.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample RunSystemTray\obj\Debug\ChuCong.Form1.resources
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample RunSystemTray\obj\Debug\ChuCong.Resources.resources

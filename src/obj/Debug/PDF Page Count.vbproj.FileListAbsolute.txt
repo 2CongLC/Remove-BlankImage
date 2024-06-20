@@ -1,0 +1,28 @@
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count\obj\Debug\ChuCong.Form1.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count\obj\Debug\ChuCong.Resources.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count\obj\Debug\PDF Page Count.vbproj.GenerateResource.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count\bin\Debug\PDF Page Count.exe.config
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count\bin\Debug\PDF Page Count.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count\bin\Debug\PDF Page Count.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count\bin\Debug\PDF Page Count.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count\obj\Debug\PDF Page Count.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count\obj\Debug\PDF Page Count.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count\obj\Debug\PDF Page Count.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count\obj\Debug\PDF Page Count.vbprojAssemblyReference.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count V2\bin\Debug\PDF Page Count.exe.config
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count V2\bin\Debug\PDF Page Count.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count V2\bin\Debug\PDF Page Count.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count V2\bin\Debug\PDF Page Count.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count V2\obj\Debug\PDF Page Count.vbprojAssemblyReference.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count V2\obj\Debug\ChuCong.Form1.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count V2\obj\Debug\ChuCong.Resources.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count V2\obj\Debug\PDF Page Count.vbproj.GenerateResource.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count V2\obj\Debug\PDF Page Count.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count V2\obj\Debug\PDF Page Count.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count V2\obj\Debug\PDF Page Count.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count V2\bin\Debug\itextsharp.dll
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count V2\bin\Debug\itextsharp.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count V2\obj\Debug\PDF Page Count.vbproj.CopyComplete
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count\bin\Debug\itextsharp.dll
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count\bin\Debug\itextsharp.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\PDF Page Count\obj\Debug\PDF Page Count.vbproj.CopyComplete

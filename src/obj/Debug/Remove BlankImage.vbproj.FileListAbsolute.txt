@@ -1,0 +1,34 @@
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Remove ImageBlank\bin\Debug\Remove BlankImage.exe.config
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Remove ImageBlank\bin\Debug\Remove BlankImage.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Remove ImageBlank\bin\Debug\Remove BlankImage.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Remove ImageBlank\bin\Debug\Remove BlankImage.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Remove ImageBlank\obj\Debug\Remove BlankImage.vbprojAssemblyReference.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Remove ImageBlank\obj\Debug\ChuCong.Form1.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Remove ImageBlank\obj\Debug\ChuCong.Resources.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Remove ImageBlank\obj\Debug\Remove BlankImage.vbproj.GenerateResource.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Remove ImageBlank\obj\Debug\Remove BlankImage.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Remove ImageBlank\obj\Debug\Remove BlankImage.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Remove ImageBlank\obj\Debug\Remove BlankImage.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Remove BlankImage\bin\Debug\Remove BlankImage.exe.config
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Remove BlankImage\bin\Debug\Remove BlankImage.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Remove BlankImage\bin\Debug\Remove BlankImage.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Remove BlankImage\bin\Debug\Remove BlankImage.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Remove BlankImage\obj\Debug\Remove BlankImage.vbprojAssemblyReference.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Remove BlankImage\obj\Debug\ChuCong.Form1.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Remove BlankImage\obj\Debug\ChuCong.Resources.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Remove BlankImage\obj\Debug\Remove BlankImage.vbproj.GenerateResource.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Remove BlankImage\obj\Debug\Remove BlankImage.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Remove BlankImage\obj\Debug\Remove BlankImage.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Remove BlankImage\obj\Debug\Remove BlankImage.pdb
+D:\Source VBNet_C#\GitHub\Image-IsBlank\src\bin\Debug\Remove BlankImage.exe.config
+D:\Source VBNet_C#\GitHub\Image-IsBlank\src\bin\Debug\Remove BlankImage.exe
+D:\Source VBNet_C#\GitHub\Image-IsBlank\src\bin\Debug\Remove BlankImage.pdb
+D:\Source VBNet_C#\GitHub\Image-IsBlank\src\bin\Debug\Remove BlankImage.xml
+D:\Source VBNet_C#\GitHub\Image-IsBlank\src\obj\Debug\Remove BlankImage.vbproj.AssemblyReference.cache
+D:\Source VBNet_C#\GitHub\Image-IsBlank\src\obj\Debug\ChuCong.Form1.resources
+D:\Source VBNet_C#\GitHub\Image-IsBlank\src\obj\Debug\ChuCong.Resources.resources
+D:\Source VBNet_C#\GitHub\Image-IsBlank\src\obj\Debug\Remove BlankImage.vbproj.GenerateResource.cache
+D:\Source VBNet_C#\GitHub\Image-IsBlank\src\obj\Debug\Remove BlankImage.vbproj.CoreCompileInputs.cache
+D:\Source VBNet_C#\GitHub\Image-IsBlank\src\obj\Debug\Remove BlankImage.exe
+D:\Source VBNet_C#\GitHub\Image-IsBlank\src\obj\Debug\Remove BlankImage.xml
+D:\Source VBNet_C#\GitHub\Image-IsBlank\src\obj\Debug\Remove BlankImage.pdb
